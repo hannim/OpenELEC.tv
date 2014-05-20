@@ -23,7 +23,9 @@ PKG_REV="1"
 PKG_ARCH="any"
 PKG_LICENSE="GPL"
 PKG_SITE=""
+#PKG_URL="http://mirror.csclub.uwaterloo.ca/nongnu//freetype/$PKG_NAME-$PKG_VERSION.src.tar.gz"
 PKG_URL="http://mirror.csclub.uwaterloo.ca/nongnu//freetype/$PKG_NAME-$PKG_VERSION.src.tar.gz"
+
          
 PKG_DEPENDS_TARGET="toolchain"
 PKG_PRIORITY="optional"
